@@ -3,7 +3,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = "rails"
-  s.version     = '5.2.6'
+  s.version     = '5.2.7'
   s.summary     = "Fake rails dependency so you can pull in JUST what you need."
   s.description = "Fake rails dependency so you can pull in just what you need."
 
