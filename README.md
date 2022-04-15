@@ -5,13 +5,13 @@ This is a fake rails dependency to get around packages that pull in rails when t
 To use put this in your gemfile
 
 ```ruby
-gem 'rails', '~> 5.2', github: 'NetsoftHoldings/fakerails'
+gem 'rails', '~> 6.0.4', github: 'NetsoftHoldings/fakerails'
 ```
 
 Then add in the rest of your rails dependencies you need
 
 ```ruby
-rails_version='=5.2.6'
+rails_version='=6.0.4'
 [
   'activesupport',
   'actionpack',
